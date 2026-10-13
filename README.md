@@ -24,8 +24,9 @@ The bundled dataset is synthetic. To use real listings, put a CSV with the same 
 load it into SQLite (the last lines of `generate_data.py` show how), then rerun `train_model.py`.
 Reported accuracy on synthetic data will be higher than on real data.
 
-## Report
-`Project_Report.docx` follows the college report format. Placeholders in [ square brackets ]
-(college logo, degree, organization, guide) must be filled in. `python make_report_assets.py && node build_report.js`
-rebuilds it from the latest results.
 
+## Live demo
+Streamlit app: https://majorprojectreal-estate-prediction.streamlit.app
+
+## Project report
+The college project report is submitted separately as a Word document.
