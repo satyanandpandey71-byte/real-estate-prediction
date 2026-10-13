@@ -1,0 +1,240 @@
+[
+ {
+  "key": "ABSTRACT",
+  "kind": "roman"
+ },
+ {
+  "key": "ACKNOWLEDGEMENT",
+  "kind": "roman"
+ },
+ {
+  "key": "CHAPTER 1: INTRODUCTION",
+  "kind": "arabic"
+ },
+ {
+  "key": "1.1 Background",
+  "kind": "arabic"
+ },
+ {
+  "key": "1.2 Problem Statement",
+  "kind": "arabic"
+ },
+ {
+  "key": "1.3 Aim and Objectives",
+  "kind": "arabic"
+ },
+ {
+  "key": "1.4 Scope of the Project",
+  "kind": "arabic"
+ },
+ {
+  "key": "1.5 Future Scope",
+  "kind": "arabic"
+ },
+ {
+  "key": "1.6 Organization of the Report",
+  "kind": "arabic"
+ },
+ {
+  "key": "CHAPTER 2: APPROACH USED",
+  "kind": "arabic"
+ },
+ {
+  "key": "2.1 Selection of Approach",
+  "kind": "arabic"
+ },
+ {
+  "key": "Table 2.1:",
+  "kind": "tab",
+  "caption": "Table 2.1: Comparison of candidate approaches"
+ },
+ {
+  "key": "2.2 Application of Selected Approach",
+  "kind": "arabic"
+ },
+ {
+  "key": "Figure 2.1:",
+  "kind": "fig",
+  "caption": "Figure 2.1: System architecture of the proposed system"
+ },
+ {
+  "key": "2.2.1 Dataset",
+  "kind": "arabic"
+ },
+ {
+  "key": "Table 2.2:",
+  "kind": "tab",
+  "caption": "Table 2.2: Attributes in the dataset"
+ },
+ {
+  "key": "2.2.2 SQL Database",
+  "kind": "arabic"
+ },
+ {
+  "key": "2.2.3 Data Preprocessing",
+  "kind": "arabic"
+ },
+ {
+  "key": "2.2.4 Machine-Learning Models",
+  "kind": "arabic"
+ },
+ {
+  "key": "2.2.5 Recommendation Engine",
+  "kind": "arabic"
+ },
+ {
+  "key": "2.2.6 REST API",
+  "kind": "arabic"
+ },
+ {
+  "key": "Table 2.3:",
+  "kind": "tab",
+  "caption": "Table 2.3: REST API endpoints"
+ },
+ {
+  "key": "2.2.7 Web Interface",
+  "kind": "arabic"
+ },
+ {
+  "key": "2.2.8 Deployment on AWS",
+  "kind": "arabic"
+ },
+ {
+  "key": "CHAPTER 3: RESULTS AND DISCUSSION",
+  "kind": "arabic"
+ },
+ {
+  "key": "3.1 Exploratory Data Analysis",
+  "kind": "arabic"
+ },
+ {
+  "key": "Figure 3.1:",
+  "kind": "fig",
+  "caption": "Figure 3.1: Distribution of property prices and log prices"
+ },
+ {
+  "key": "Figure 3.2:",
+  "kind": "fig",
+  "caption": "Figure 3.2: Price distribution by city"
+ },
+ {
+  "key": "Table 3.1:",
+  "kind": "tab",
+  "caption": "Table 3.1: City-wise market summary (from SQL query)"
+ },
+ {
+  "key": "Figure 3.3:",
+  "kind": "fig",
+  "caption": "Figure 3.3: Relationship between area and price, coloured by BHK"
+ },
+ {
+  "key": "Figure 3.4:",
+  "kind": "fig",
+  "caption": "Figure 3.4: Correlation heatmap of numeric features"
+ },
+ {
+  "key": "3.2 Model Performance",
+  "kind": "arabic"
+ },
+ {
+  "key": "Table 3.2:",
+  "kind": "tab",
+  "caption": "Table 3.2: Model comparison on the test set"
+ },
+ {
+  "key": "Figure 3.5:",
+  "kind": "fig",
+  "caption": "Figure 3.5: Test R² of the compared models"
+ },
+ {
+  "key": "Figure 3.6:",
+  "kind": "fig",
+  "caption": "Figure 3.6: XGBoost actual versus predicted prices and residual distribution"
+ },
+ {
+  "key": "3.3 Feature Importance",
+  "kind": "arabic"
+ },
+ {
+  "key": "Figure 3.7:",
+  "kind": "fig",
+  "caption": "Figure 3.7: Top feature importances of the XGBoost model"
+ },
+ {
+  "key": "3.4 Price Prediction Example",
+  "kind": "arabic"
+ },
+ {
+  "key": "3.5 Recommendation Results",
+  "kind": "arabic"
+ },
+ {
+  "key": "Table 3.3:",
+  "kind": "tab",
+  "caption": "Table 3.3: Top five recommendations for the sample user"
+ },
+ {
+  "key": "3.6 API and Web Application Testing",
+  "kind": "arabic"
+ },
+ {
+  "key": "3.7 Discussion and Limitations",
+  "kind": "arabic"
+ },
+ {
+  "key": "CHAPTER 4: CONCLUSION AND RECOMMENDATIONS",
+  "kind": "arabic"
+ },
+ {
+  "key": "4.1 Conclusion",
+  "kind": "arabic"
+ },
+ {
+  "key": "4.2 Recommendations",
+  "kind": "arabic"
+ },
+ {
+  "key": "APPENDICES",
+  "kind": "arabic"
+ },
+ {
+  "key": "Appendix 1: Project Structure and How to Run",
+  "kind": "arabic"
+ },
+ {
+  "key": "Appendix 2: SQL Schema and Queries",
+  "kind": "arabic"
+ },
+ {
+  "key": "Appendix 3: API Usage Examples",
+  "kind": "arabic"
+ },
+ {
+  "key": "Appendix 4: Deployment on AWS",
+  "kind": "arabic"
+ },
+ {
+  "key": "Appendix 5: Source Code",
+  "kind": "arabic"
+ },
+ {
+  "key": "REFERENCES",
+  "kind": "arabic"
+ },
+ {
+  "key": "DECLARATION",
+  "kind": "roman"
+ },
+ {
+  "key": "LIST OF TABLES",
+  "kind": "roman"
+ },
+ {
+  "key": "LIST OF FIGURES",
+  "kind": "roman"
+ },
+ {
+  "key": "LIST OF SYMBOLS, ABBREVIATIONS AND NOMENCLATURE",
+  "kind": "roman"
+ }
+]

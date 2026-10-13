@@ -1,0 +1,743 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "predictor",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "predictor",
+        "description": "predictor",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "CITIES",
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "isExtraImport": true,
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "PROPERTY_TYPES",
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "isExtraImport": true,
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "FURNISHING",
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "isExtraImport": true,
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "AMENITY_COLS",
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "isExtraImport": true,
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "FancyBboxPatch",
+        "importPath": "matplotlib.patches",
+        "description": "matplotlib.patches",
+        "isExtraImport": true,
+        "detail": "matplotlib.patches",
+        "documentation": {}
+    },
+    {
+        "label": "FancyArrowPatch",
+        "importPath": "matplotlib.patches",
+        "description": "matplotlib.patches",
+        "isExtraImport": true,
+        "detail": "matplotlib.patches",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "ColumnTransformer",
+        "importPath": "sklearn.compose",
+        "description": "sklearn.compose",
+        "isExtraImport": true,
+        "detail": "sklearn.compose",
+        "documentation": {}
+    },
+    {
+        "label": "GradientBoostingRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "Ridge",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "mean_absolute_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "OneHotEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "XGBRegressor",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def health():\n    return jsonify(status=\"ok\")\n@app.post(\"/predict\")\ndef predict():\n    data = request.get_json(silent=True) or {}\n    missing = [k for k in REQUIRED if k not in data]\n    if missing:\n        return jsonify(error=f\"Missing fields: {missing}\"), 400\n    return jsonify(predictor.predict_price(data))\n@app.post(\"/recommend\")",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def predict():\n    data = request.get_json(silent=True) or {}\n    missing = [k for k in REQUIRED if k not in data]\n    if missing:\n        return jsonify(error=f\"Missing fields: {missing}\"), 400\n    return jsonify(predictor.predict_price(data))\n@app.post(\"/recommend\")\ndef recommend():\n    data = request.get_json(silent=True) or {}\n    top_n = int(data.pop(\"top_n\", 5))",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "recommend",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def recommend():\n    data = request.get_json(silent=True) or {}\n    top_n = int(data.pop(\"top_n\", 5))\n    df = predictor.recommend(data, top_n=top_n)\n    return jsonify(df.to_dict(orient=\"records\"))\n@app.get(\"/market\")\ndef market():\n    return jsonify(predictor.market_summary().to_dict(orient=\"records\"))\nif __name__ == \"__main__\":\n    app.run(host=\"0.0.0.0\", port=5000, debug=False)",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "market",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def market():\n    return jsonify(predictor.market_summary().to_dict(orient=\"records\"))\nif __name__ == \"__main__\":\n    app.run(host=\"0.0.0.0\", port=5000, debug=False)",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "app = Flask(__name__)\nREQUIRED = [\"city\", \"locality\", \"property_type\", \"furnishing\", \"bhk\", \"area_sqft\",\n            \"bathrooms\", \"age_years\"]\n@app.get(\"/health\")\ndef health():\n    return jsonify(status=\"ok\")\n@app.post(\"/predict\")\ndef predict():\n    data = request.get_json(silent=True) or {}\n    missing = [k for k in REQUIRED if k not in data]",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRED",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "REQUIRED = [\"city\", \"locality\", \"property_type\", \"furnishing\", \"bhk\", \"area_sqft\",\n            \"bathrooms\", \"age_years\"]\n@app.get(\"/health\")\ndef health():\n    return jsonify(status=\"ok\")\n@app.post(\"/predict\")\ndef predict():\n    data = request.get_json(silent=True) or {}\n    missing = [k for k in REQUIRED if k not in data]\n    if missing:",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "inr",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def inr(v):\n    v = float(v)\n    return f\"₹{v/1e7:.2f} Cr\" if v >= 1e7 else f\"₹{v/1e5:.1f} Lakh\"\ntab1, tab2, tab3 = st.tabs([\"💰 Price Prediction\", \"⭐ Recommendations\", \"📊 Market Insights\"])\n# ---------------- Tab 1: prediction ----------------\nwith tab1:\n    st.subheader(\"Estimate a property's fair price\")\n    c1, c2, c3 = st.columns(3)\n    with c1:\n        city = st.selectbox(\"City\", list(CITIES.keys()), key=\"p_city\")",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "def generate() -> pd.DataFrame:\n    rows = []\n    city_names = list(CITIES.keys())\n    for i in range(N):\n        city = RNG.choice(city_names, p=[0.15, 0.15, 0.17, 0.12, 0.10, 0.12, 0.09, 0.10])\n        base_ppsf, localities = CITIES[city]\n        locality = RNG.choice(list(localities.keys()))\n        loc_mult = localities[locality]\n        ptype = RNG.choice(PROPERTY_TYPES, p=[0.55, 0.15, 0.1, 0.2])\n        bhk = int(RNG.choice([1, 2, 3, 4, 5], p=[0.12, 0.35, 0.33, 0.16, 0.04]))",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "def main():\n    os.makedirs(\"data\", exist_ok=True)\n    df = generate()\n    df.to_csv(\"data/properties.csv\", index=False)\n    # Load into SQL database\n    conn = sqlite3.connect(\"data/real_estate.db\")\n    df.to_sql(\"properties\", conn, if_exists=\"replace\", index=False)\n    conn.execute(\"CREATE INDEX IF NOT EXISTS idx_city ON properties(city)\")\n    conn.execute(\"CREATE INDEX IF NOT EXISTS idx_price ON properties(price_inr)\")\n    conn.commit()",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "RNG",
+        "kind": 5,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "RNG = np.random.default_rng(42)\nN = 5000\n# city -> (base price per sq ft in INR, localities with a multiplier)\nCITIES = {\n    \"Mumbai\":     (21000, {\"Bandra\": 1.8, \"Andheri\": 1.2, \"Powai\": 1.3, \"Thane\": 0.75, \"Navi Mumbai\": 0.7}),\n    \"Delhi\":      (11500, {\"Dwarka\": 0.8, \"Saket\": 1.5, \"Rohini\": 0.75, \"Vasant Kunj\": 1.7, \"Laxmi Nagar\": 0.7}),\n    \"Bangalore\":  (8500,  {\"Whitefield\": 1.0, \"Koramangala\": 1.6, \"HSR Layout\": 1.3, \"Electronic City\": 0.7, \"Hebbal\": 1.1}),\n    \"Hyderabad\":  (6500,  {\"Gachibowli\": 1.5, \"Madhapur\": 1.4, \"Kukatpally\": 0.9, \"Miyapur\": 0.75, \"Banjara Hills\": 1.9}),\n    \"Chennai\":    (7000,  {\"Adyar\": 1.5, \"OMR\": 1.0, \"Tambaram\": 0.7, \"Anna Nagar\": 1.4, \"Velachery\": 1.1}),\n    \"Pune\":       (7500,  {\"Kothrud\": 1.3, \"Hinjewadi\": 1.0, \"Wakad\": 1.05, \"Hadapsar\": 0.9, \"Baner\": 1.4}),",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "N",
+        "kind": 5,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "N = 5000\n# city -> (base price per sq ft in INR, localities with a multiplier)\nCITIES = {\n    \"Mumbai\":     (21000, {\"Bandra\": 1.8, \"Andheri\": 1.2, \"Powai\": 1.3, \"Thane\": 0.75, \"Navi Mumbai\": 0.7}),\n    \"Delhi\":      (11500, {\"Dwarka\": 0.8, \"Saket\": 1.5, \"Rohini\": 0.75, \"Vasant Kunj\": 1.7, \"Laxmi Nagar\": 0.7}),\n    \"Bangalore\":  (8500,  {\"Whitefield\": 1.0, \"Koramangala\": 1.6, \"HSR Layout\": 1.3, \"Electronic City\": 0.7, \"Hebbal\": 1.1}),\n    \"Hyderabad\":  (6500,  {\"Gachibowli\": 1.5, \"Madhapur\": 1.4, \"Kukatpally\": 0.9, \"Miyapur\": 0.75, \"Banjara Hills\": 1.9}),\n    \"Chennai\":    (7000,  {\"Adyar\": 1.5, \"OMR\": 1.0, \"Tambaram\": 0.7, \"Anna Nagar\": 1.4, \"Velachery\": 1.1}),\n    \"Pune\":       (7500,  {\"Kothrud\": 1.3, \"Hinjewadi\": 1.0, \"Wakad\": 1.05, \"Hadapsar\": 0.9, \"Baner\": 1.4}),\n    \"Chandigarh\": (6800,  {\"Sector 17\": 1.5, \"Mohali\": 0.85, \"Zirakpur\": 0.7, \"Panchkula\": 0.95, \"Sector 35\": 1.3}),",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "CITIES",
+        "kind": 5,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "CITIES = {\n    \"Mumbai\":     (21000, {\"Bandra\": 1.8, \"Andheri\": 1.2, \"Powai\": 1.3, \"Thane\": 0.75, \"Navi Mumbai\": 0.7}),\n    \"Delhi\":      (11500, {\"Dwarka\": 0.8, \"Saket\": 1.5, \"Rohini\": 0.75, \"Vasant Kunj\": 1.7, \"Laxmi Nagar\": 0.7}),\n    \"Bangalore\":  (8500,  {\"Whitefield\": 1.0, \"Koramangala\": 1.6, \"HSR Layout\": 1.3, \"Electronic City\": 0.7, \"Hebbal\": 1.1}),\n    \"Hyderabad\":  (6500,  {\"Gachibowli\": 1.5, \"Madhapur\": 1.4, \"Kukatpally\": 0.9, \"Miyapur\": 0.75, \"Banjara Hills\": 1.9}),\n    \"Chennai\":    (7000,  {\"Adyar\": 1.5, \"OMR\": 1.0, \"Tambaram\": 0.7, \"Anna Nagar\": 1.4, \"Velachery\": 1.1}),\n    \"Pune\":       (7500,  {\"Kothrud\": 1.3, \"Hinjewadi\": 1.0, \"Wakad\": 1.05, \"Hadapsar\": 0.9, \"Baner\": 1.4}),\n    \"Chandigarh\": (6800,  {\"Sector 17\": 1.5, \"Mohali\": 0.85, \"Zirakpur\": 0.7, \"Panchkula\": 0.95, \"Sector 35\": 1.3}),\n    \"Kolkata\":    (6200,  {\"Salt Lake\": 1.3, \"New Town\": 1.1, \"Behala\": 0.75, \"Howrah\": 0.6, \"Ballygunge\": 1.7}),\n}",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "PROPERTY_TYPES",
+        "kind": 5,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "PROPERTY_TYPES = [\"Apartment\", \"Independent House\", \"Villa\", \"Builder Floor\"]\nFURNISHING = [\"Unfurnished\", \"Semi-Furnished\", \"Furnished\"]\nAMENITY_COLS = [\"gym\", \"swimming_pool\", \"parking\", \"security\", \"lift\", \"garden\", \"clubhouse\", \"power_backup\"]\ndef generate() -> pd.DataFrame:\n    rows = []\n    city_names = list(CITIES.keys())\n    for i in range(N):\n        city = RNG.choice(city_names, p=[0.15, 0.15, 0.17, 0.12, 0.10, 0.12, 0.09, 0.10])\n        base_ppsf, localities = CITIES[city]\n        locality = RNG.choice(list(localities.keys()))",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "FURNISHING",
+        "kind": 5,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "FURNISHING = [\"Unfurnished\", \"Semi-Furnished\", \"Furnished\"]\nAMENITY_COLS = [\"gym\", \"swimming_pool\", \"parking\", \"security\", \"lift\", \"garden\", \"clubhouse\", \"power_backup\"]\ndef generate() -> pd.DataFrame:\n    rows = []\n    city_names = list(CITIES.keys())\n    for i in range(N):\n        city = RNG.choice(city_names, p=[0.15, 0.15, 0.17, 0.12, 0.10, 0.12, 0.09, 0.10])\n        base_ppsf, localities = CITIES[city]\n        locality = RNG.choice(list(localities.keys()))\n        loc_mult = localities[locality]",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "AMENITY_COLS",
+        "kind": 5,
+        "importPath": "generate_data",
+        "description": "generate_data",
+        "peekOfCode": "AMENITY_COLS = [\"gym\", \"swimming_pool\", \"parking\", \"security\", \"lift\", \"garden\", \"clubhouse\", \"power_backup\"]\ndef generate() -> pd.DataFrame:\n    rows = []\n    city_names = list(CITIES.keys())\n    for i in range(N):\n        city = RNG.choice(city_names, p=[0.15, 0.15, 0.17, 0.12, 0.10, 0.12, 0.09, 0.10])\n        base_ppsf, localities = CITIES[city]\n        locality = RNG.choice(list(localities.keys()))\n        loc_mult = localities[locality]\n        ptype = RNG.choice(PROPERTY_TYPES, p=[0.55, 0.15, 0.1, 0.2])",
+        "detail": "generate_data",
+        "documentation": {}
+    },
+    {
+        "label": "box",
+        "kind": 2,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "def box(x, y, w, h, text, fc=\"#dbeaf3\"):\n    ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle=\"round,pad=0.05,rounding_size=0.12\",\n                                fc=fc, ec=\"#2a6f97\", lw=1.5))\n    ax.text(x + w / 2, y + h / 2, text, ha=\"center\", va=\"center\", fontsize=9.5)\ndef arrow(x1, y1, x2, y2):\n    ax.add_patch(FancyArrowPatch((x1, y1), (x2, y2), arrowstyle=\"-|>\", mutation_scale=14, color=\"#333\", lw=1.4))\nbox(0.2, 3.6, 2.2, 0.9, \"Property data\\n(CSV listings)\")\nbox(0.2, 2.2, 2.2, 0.9, \"SQLite / SQL\\nlistings database\")\nbox(3.1, 3.6, 2.4, 0.9, \"Preprocessing\\nencoding, log-price\")\nbox(3.1, 2.2, 2.4, 0.9, \"Model training\\nLinear, Ridge, RF,\\nGB, XGBoost\", fc=\"#c7e3d0\")",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "arrow",
+        "kind": 2,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "def arrow(x1, y1, x2, y2):\n    ax.add_patch(FancyArrowPatch((x1, y1), (x2, y2), arrowstyle=\"-|>\", mutation_scale=14, color=\"#333\", lw=1.4))\nbox(0.2, 3.6, 2.2, 0.9, \"Property data\\n(CSV listings)\")\nbox(0.2, 2.2, 2.2, 0.9, \"SQLite / SQL\\nlistings database\")\nbox(3.1, 3.6, 2.4, 0.9, \"Preprocessing\\nencoding, log-price\")\nbox(3.1, 2.2, 2.4, 0.9, \"Model training\\nLinear, Ridge, RF,\\nGB, XGBoost\", fc=\"#c7e3d0\")\nbox(3.1, 0.7, 2.4, 0.9, \"Best model\\n(price_model.joblib)\", fc=\"#c7e3d0\")\nbox(6.2, 2.9, 2.2, 1.0, \"Recommendation\\nengine (filter + score)\", fc=\"#f8e5c0\")\nbox(6.2, 1.2, 2.2, 1.0, \"Flask REST API\\n/predict /recommend\", fc=\"#f8e5c0\")\nbox(8.9, 2.05, 1.9, 1.1, \"Streamlit web UI\\n(user)\", fc=\"#f3d1d1\")",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "sample_in",
+        "kind": 5,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "sample_in = {\"city\": \"Bangalore\", \"locality\": \"Whitefield\", \"property_type\": \"Apartment\",\n             \"furnishing\": \"Semi-Furnished\", \"bhk\": 3, \"area_sqft\": 1500, \"bathrooms\": 3, \"age_years\": 4,\n             \"floor\": 8, \"total_floors\": 15, \"metro_distance_km\": 2.5, \"parking\": 1, \"security\": 1,\n             \"lift\": 1, \"gym\": 1}\nsample_out = predictor.predict_price(sample_in)\nprefs = {\"city\": \"Pune\", \"bhk\": 2, \"min_area\": 800, \"min_budget\": 4e6, \"max_budget\": 9e6,\n         \"amenities\": [\"parking\", \"security\"], \"locality\": \"Baner\"}\nrec = predictor.recommend(prefs, 5)\ndf = pd.read_csv(\"data/properties.csv\")\nout = {",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "sample_out",
+        "kind": 5,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "sample_out = predictor.predict_price(sample_in)\nprefs = {\"city\": \"Pune\", \"bhk\": 2, \"min_area\": 800, \"min_budget\": 4e6, \"max_budget\": 9e6,\n         \"amenities\": [\"parking\", \"security\"], \"locality\": \"Baner\"}\nrec = predictor.recommend(prefs, 5)\ndf = pd.read_csv(\"data/properties.csv\")\nout = {\n    \"sample_in\": sample_in, \"sample_out\": sample_out, \"prefs\": prefs,\n    \"rec\": rec.to_dict(orient=\"records\"),\n    \"market\": predictor.market_summary().to_dict(orient=\"records\"),\n    \"n_rows\": len(df), \"n_cols\": df.shape[1],",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "prefs",
+        "kind": 5,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "prefs = {\"city\": \"Pune\", \"bhk\": 2, \"min_area\": 800, \"min_budget\": 4e6, \"max_budget\": 9e6,\n         \"amenities\": [\"parking\", \"security\"], \"locality\": \"Baner\"}\nrec = predictor.recommend(prefs, 5)\ndf = pd.read_csv(\"data/properties.csv\")\nout = {\n    \"sample_in\": sample_in, \"sample_out\": sample_out, \"prefs\": prefs,\n    \"rec\": rec.to_dict(orient=\"records\"),\n    \"market\": predictor.market_summary().to_dict(orient=\"records\"),\n    \"n_rows\": len(df), \"n_cols\": df.shape[1],\n    \"price_min\": int(df.price_inr.min()), \"price_max\": int(df.price_inr.max()),",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "rec",
+        "kind": 5,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "rec = predictor.recommend(prefs, 5)\ndf = pd.read_csv(\"data/properties.csv\")\nout = {\n    \"sample_in\": sample_in, \"sample_out\": sample_out, \"prefs\": prefs,\n    \"rec\": rec.to_dict(orient=\"records\"),\n    \"market\": predictor.market_summary().to_dict(orient=\"records\"),\n    \"n_rows\": len(df), \"n_cols\": df.shape[1],\n    \"price_min\": int(df.price_inr.min()), \"price_max\": int(df.price_inr.max()),\n    \"price_mean\": float(df.price_inr.mean()), \"price_median\": float(df.price_inr.median()),\n    \"area_mean\": float(df.area_sqft.mean()),",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "df = pd.read_csv(\"data/properties.csv\")\nout = {\n    \"sample_in\": sample_in, \"sample_out\": sample_out, \"prefs\": prefs,\n    \"rec\": rec.to_dict(orient=\"records\"),\n    \"market\": predictor.market_summary().to_dict(orient=\"records\"),\n    \"n_rows\": len(df), \"n_cols\": df.shape[1],\n    \"price_min\": int(df.price_inr.min()), \"price_max\": int(df.price_inr.max()),\n    \"price_mean\": float(df.price_inr.mean()), \"price_median\": float(df.price_inr.median()),\n    \"area_mean\": float(df.area_sqft.mean()),\n}",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "out",
+        "kind": 5,
+        "importPath": "make_report_assets",
+        "description": "make_report_assets",
+        "peekOfCode": "out = {\n    \"sample_in\": sample_in, \"sample_out\": sample_out, \"prefs\": prefs,\n    \"rec\": rec.to_dict(orient=\"records\"),\n    \"market\": predictor.market_summary().to_dict(orient=\"records\"),\n    \"n_rows\": len(df), \"n_cols\": df.shape[1],\n    \"price_min\": int(df.price_inr.min()), \"price_max\": int(df.price_inr.max()),\n    \"price_mean\": float(df.price_inr.mean()), \"price_median\": float(df.price_inr.median()),\n    \"area_mean\": float(df.area_sqft.mean()),\n}\njson.dump(out, open(\"outputs/report_data.json\", \"w\"), indent=2, default=float)",
+        "detail": "make_report_assets",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 2,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "def lines(p):\n    return [re.sub(r\"\\s+\", \" \", l).strip() for l in pages[p].split(\"\\n\") if l.strip() and \"....\" not in l]\nL = [lines(i) for i in range(n)]\n# first arabic page = page whose lines contain \"CHAPTER 1: INTRODUCTION\" (not a TOC line)\nch1 = next(i for i in range(n) if \"CHAPTER 1: INTRODUCTION\" in L[i])\nroman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]\ndef roman(k):\n    s = \"\"\n    for r, v in roman_vals:\n        while k >= v:",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "roman",
+        "kind": 2,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "def roman(k):\n    s = \"\"\n    for r, v in roman_vals:\n        while k >= v:\n            s += r; k -= v\n    return s\npm = {}\nfor k in keys:\n    key, kind = k[\"key\"], k[\"kind\"]\n    probe = key[:24]",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "keys",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "keys = json.load(open(\"outputs/keys.json\"))\nn = int(re.search(r\"Pages:\\s+(\\d+)\", subprocess.check_output([\"pdfinfo\", \"Project_Report.pdf\"], text=True)).group(1))\npages = [subprocess.check_output([\"pdftotext\", \"-f\", str(i), \"-l\", str(i), \"-layout\", \"Project_Report.pdf\", \"-\"], text=True)\n         for i in range(1, n + 1)]\ndef lines(p):\n    return [re.sub(r\"\\s+\", \" \", l).strip() for l in pages[p].split(\"\\n\") if l.strip() and \"....\" not in l]\nL = [lines(i) for i in range(n)]\n# first arabic page = page whose lines contain \"CHAPTER 1: INTRODUCTION\" (not a TOC line)\nch1 = next(i for i in range(n) if \"CHAPTER 1: INTRODUCTION\" in L[i])\nroman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "n = int(re.search(r\"Pages:\\s+(\\d+)\", subprocess.check_output([\"pdfinfo\", \"Project_Report.pdf\"], text=True)).group(1))\npages = [subprocess.check_output([\"pdftotext\", \"-f\", str(i), \"-l\", str(i), \"-layout\", \"Project_Report.pdf\", \"-\"], text=True)\n         for i in range(1, n + 1)]\ndef lines(p):\n    return [re.sub(r\"\\s+\", \" \", l).strip() for l in pages[p].split(\"\\n\") if l.strip() and \"....\" not in l]\nL = [lines(i) for i in range(n)]\n# first arabic page = page whose lines contain \"CHAPTER 1: INTRODUCTION\" (not a TOC line)\nch1 = next(i for i in range(n) if \"CHAPTER 1: INTRODUCTION\" in L[i])\nroman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]\ndef roman(k):",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "pages",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "pages = [subprocess.check_output([\"pdftotext\", \"-f\", str(i), \"-l\", str(i), \"-layout\", \"Project_Report.pdf\", \"-\"], text=True)\n         for i in range(1, n + 1)]\ndef lines(p):\n    return [re.sub(r\"\\s+\", \" \", l).strip() for l in pages[p].split(\"\\n\") if l.strip() and \"....\" not in l]\nL = [lines(i) for i in range(n)]\n# first arabic page = page whose lines contain \"CHAPTER 1: INTRODUCTION\" (not a TOC line)\nch1 = next(i for i in range(n) if \"CHAPTER 1: INTRODUCTION\" in L[i])\nroman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]\ndef roman(k):\n    s = \"\"",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "L",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "L = [lines(i) for i in range(n)]\n# first arabic page = page whose lines contain \"CHAPTER 1: INTRODUCTION\" (not a TOC line)\nch1 = next(i for i in range(n) if \"CHAPTER 1: INTRODUCTION\" in L[i])\nroman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]\ndef roman(k):\n    s = \"\"\n    for r, v in roman_vals:\n        while k >= v:\n            s += r; k -= v\n    return s",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "ch1",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "ch1 = next(i for i in range(n) if \"CHAPTER 1: INTRODUCTION\" in L[i])\nroman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]\ndef roman(k):\n    s = \"\"\n    for r, v in roman_vals:\n        while k >= v:\n            s += r; k -= v\n    return s\npm = {}\nfor k in keys:",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "roman_vals",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "roman_vals = [(\"x\", 10), (\"ix\", 9), (\"v\", 5), (\"iv\", 4), (\"i\", 1)]\ndef roman(k):\n    s = \"\"\n    for r, v in roman_vals:\n        while k >= v:\n            s += r; k -= v\n    return s\npm = {}\nfor k in keys:\n    key, kind = k[\"key\"], k[\"kind\"]",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "pm",
+        "kind": 5,
+        "importPath": "paginate",
+        "description": "paginate",
+        "peekOfCode": "pm = {}\nfor k in keys:\n    key, kind = k[\"key\"], k[\"kind\"]\n    probe = key[:24]\n    found = None\n    for i in range(n):\n        if any(l.startswith(probe) for l in L[i]):\n            found = i; break\n    if found is None:\n        print(\"NOT FOUND:\", key); continue",
+        "detail": "paginate",
+        "documentation": {}
+    },
+    {
+        "label": "predict_price",
+        "kind": 2,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "def predict_price(features: dict) -> dict:\n    \"\"\"Predict price in INR with an approximate 90% interval (from log-residual std).\"\"\"\n    model, meta = _load()\n    cols = meta[\"cat_features\"] + meta[\"num_features\"]\n    row = {c: features.get(c, 0) for c in cols}\n    X = pd.DataFrame([row])\n    log_p = float(model.predict(X)[0])\n    s = meta[\"resid_std_log\"]\n    price = float(np.expm1(log_p))\n    return {",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "get_listings",
+        "kind": 2,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "def get_listings(filters: dict | None = None) -> pd.DataFrame:\n    \"\"\"Parameterised SQL query against the listings table.\"\"\"\n    filters = filters or {}\n    q, params = \"SELECT * FROM properties WHERE 1=1\", []\n    if filters.get(\"city\"):\n        q += \" AND city = ?\"; params.append(filters[\"city\"])\n    if filters.get(\"locality\"):\n        q += \" AND locality = ?\"; params.append(filters[\"locality\"])\n    if filters.get(\"property_type\"):\n        q += \" AND property_type = ?\"; params.append(filters[\"property_type\"])",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "recommend",
+        "kind": 2,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "def recommend(prefs: dict, top_n: int = 5) -> pd.DataFrame:\n    \"\"\"\n    Recommend properties for a user.\n    1. Hard filters (SQL): city, budget, minimum BHK, property type.\n    2. Soft scoring (0-100): budget fit, area fit, locality match, amenities,\n       metro proximity, age, and value-for-money (model-predicted price vs listed price).\n    \"\"\"\n    model, meta = _load()\n    df = get_listings({\n        \"city\": prefs.get(\"city\"), \"property_type\": prefs.get(\"property_type\"),",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "market_summary",
+        "kind": 2,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "def market_summary() -> pd.DataFrame:\n    conn = sqlite3.connect(DB_PATH)\n    df = pd.read_sql_query(\n        \"\"\"SELECT city, COUNT(*) AS listings, ROUND(AVG(price_inr)/1e5,1) AS avg_price_lakh,\n                  ROUND(AVG(price_inr*1.0/area_sqft)) AS avg_price_per_sqft\n           FROM properties GROUP BY city ORDER BY avg_price_per_sqft DESC\"\"\", conn)\n    conn.close()\n    return df",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "kind": 5,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "MODEL_PATH = \"models/price_model.joblib\"\nMETA_PATH = \"models/model_meta.json\"\nDB_PATH = \"data/real_estate.db\"\n_model = None\n_meta = None\ndef _load():\n    global _model, _meta\n    if _model is None:\n        _model = joblib.load(MODEL_PATH)\n        _meta = json.load(open(META_PATH))",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "META_PATH",
+        "kind": 5,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "META_PATH = \"models/model_meta.json\"\nDB_PATH = \"data/real_estate.db\"\n_model = None\n_meta = None\ndef _load():\n    global _model, _meta\n    if _model is None:\n        _model = joblib.load(MODEL_PATH)\n        _meta = json.load(open(META_PATH))\n    return _model, _meta",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "DB_PATH = \"data/real_estate.db\"\n_model = None\n_meta = None\ndef _load():\n    global _model, _meta\n    if _model is None:\n        _model = joblib.load(MODEL_PATH)\n        _meta = json.load(open(META_PATH))\n    return _model, _meta\ndef predict_price(features: dict) -> dict:",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "_model",
+        "kind": 5,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "_model = None\n_meta = None\ndef _load():\n    global _model, _meta\n    if _model is None:\n        _model = joblib.load(MODEL_PATH)\n        _meta = json.load(open(META_PATH))\n    return _model, _meta\ndef predict_price(features: dict) -> dict:\n    \"\"\"Predict price in INR with an approximate 90% interval (from log-residual std).\"\"\"",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "_meta",
+        "kind": 5,
+        "importPath": "predictor",
+        "description": "predictor",
+        "peekOfCode": "_meta = None\ndef _load():\n    global _model, _meta\n    if _model is None:\n        _model = joblib.load(MODEL_PATH)\n        _meta = json.load(open(META_PATH))\n    return _model, _meta\ndef predict_price(features: dict) -> dict:\n    \"\"\"Predict price in INR with an approximate 90% interval (from log-residual std).\"\"\"\n    model, meta = _load()",
+        "detail": "predictor",
+        "documentation": {}
+    },
+    {
+        "label": "eda",
+        "kind": 2,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "def eda(df):\n    fig, ax = plt.subplots(1, 2, figsize=(12, 4))\n    sns.histplot(df[TARGET] / 1e7, bins=50, kde=True, ax=ax[0], color=\"#2a6f97\")\n    ax[0].set_title(\"Price distribution (INR crore)\"); ax[0].set_xlabel(\"Price (crore)\")\n    sns.histplot(np.log1p(df[TARGET]), bins=50, kde=True, ax=ax[1], color=\"#61a5c2\")\n    ax[1].set_title(\"Log price distribution\"); ax[1].set_xlabel(\"log(1 + price)\")\n    plt.tight_layout(); plt.savefig(\"outputs/fig_price_distribution.png\", dpi=150); plt.close()\n    plt.figure(figsize=(9, 4.5))\n    order = df.groupby(\"city\")[TARGET].median().sort_values(ascending=False).index\n    sns.boxplot(data=df, x=\"city\", y=df[TARGET] / 1e7, order=order, color=\"#89c2d9\")",
+        "detail": "train_model",
+        "documentation": {}
+    },
+    {
+        "label": "build_pipeline",
+        "kind": 2,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "def build_pipeline(model, scale=False):\n    num_t = StandardScaler() if scale else \"passthrough\"\n    pre = ColumnTransformer([\n        (\"cat\", OneHotEncoder(handle_unknown=\"ignore\"), CAT),\n        (\"num\", num_t, NUM),\n    ])\n    return Pipeline([(\"pre\", pre), (\"model\", model)])\ndef mape(y, p):\n    return float(np.mean(np.abs((y - p) / y)) * 100)\ndef main():",
+        "detail": "train_model",
+        "documentation": {}
+    },
+    {
+        "label": "mape",
+        "kind": 2,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "def mape(y, p):\n    return float(np.mean(np.abs((y - p) / y)) * 100)\ndef main():\n    df = pd.read_csv(\"data/properties.csv\")\n    print(\"Dataset:\", df.shape, \"| missing values:\", int(df.isna().sum().sum()))\n    eda(df)\n    X, y = df[CAT + NUM], df[TARGET]\n    # Train on log-price (price is right-skewed), evaluate in rupees\n    X_tr, X_te, y_tr, y_te = train_test_split(X, y, test_size=0.2, random_state=42)\n    y_tr_log = np.log1p(y_tr)",
+        "detail": "train_model",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "def main():\n    df = pd.read_csv(\"data/properties.csv\")\n    print(\"Dataset:\", df.shape, \"| missing values:\", int(df.isna().sum().sum()))\n    eda(df)\n    X, y = df[CAT + NUM], df[TARGET]\n    # Train on log-price (price is right-skewed), evaluate in rupees\n    X_tr, X_te, y_tr, y_te = train_test_split(X, y, test_size=0.2, random_state=42)\n    y_tr_log = np.log1p(y_tr)\n    models = {\n        \"Linear Regression\": build_pipeline(LinearRegression(), scale=True),",
+        "detail": "train_model",
+        "documentation": {}
+    },
+    {
+        "label": "CAT",
+        "kind": 5,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "CAT = [\"city\", \"locality\", \"property_type\", \"furnishing\"]\nNUM = [\"bhk\", \"area_sqft\", \"bathrooms\", \"age_years\", \"floor\", \"total_floors\", \"metro_distance_km\",\n       \"gym\", \"swimming_pool\", \"parking\", \"security\", \"lift\", \"garden\", \"clubhouse\", \"power_backup\"]\nTARGET = \"price_inr\"\ndef eda(df):\n    fig, ax = plt.subplots(1, 2, figsize=(12, 4))\n    sns.histplot(df[TARGET] / 1e7, bins=50, kde=True, ax=ax[0], color=\"#2a6f97\")\n    ax[0].set_title(\"Price distribution (INR crore)\"); ax[0].set_xlabel(\"Price (crore)\")\n    sns.histplot(np.log1p(df[TARGET]), bins=50, kde=True, ax=ax[1], color=\"#61a5c2\")\n    ax[1].set_title(\"Log price distribution\"); ax[1].set_xlabel(\"log(1 + price)\")",
+        "detail": "train_model",
+        "documentation": {}
+    },
+    {
+        "label": "NUM",
+        "kind": 5,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "NUM = [\"bhk\", \"area_sqft\", \"bathrooms\", \"age_years\", \"floor\", \"total_floors\", \"metro_distance_km\",\n       \"gym\", \"swimming_pool\", \"parking\", \"security\", \"lift\", \"garden\", \"clubhouse\", \"power_backup\"]\nTARGET = \"price_inr\"\ndef eda(df):\n    fig, ax = plt.subplots(1, 2, figsize=(12, 4))\n    sns.histplot(df[TARGET] / 1e7, bins=50, kde=True, ax=ax[0], color=\"#2a6f97\")\n    ax[0].set_title(\"Price distribution (INR crore)\"); ax[0].set_xlabel(\"Price (crore)\")\n    sns.histplot(np.log1p(df[TARGET]), bins=50, kde=True, ax=ax[1], color=\"#61a5c2\")\n    ax[1].set_title(\"Log price distribution\"); ax[1].set_xlabel(\"log(1 + price)\")\n    plt.tight_layout(); plt.savefig(\"outputs/fig_price_distribution.png\", dpi=150); plt.close()",
+        "detail": "train_model",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET",
+        "kind": 5,
+        "importPath": "train_model",
+        "description": "train_model",
+        "peekOfCode": "TARGET = \"price_inr\"\ndef eda(df):\n    fig, ax = plt.subplots(1, 2, figsize=(12, 4))\n    sns.histplot(df[TARGET] / 1e7, bins=50, kde=True, ax=ax[0], color=\"#2a6f97\")\n    ax[0].set_title(\"Price distribution (INR crore)\"); ax[0].set_xlabel(\"Price (crore)\")\n    sns.histplot(np.log1p(df[TARGET]), bins=50, kde=True, ax=ax[1], color=\"#61a5c2\")\n    ax[1].set_title(\"Log price distribution\"); ax[1].set_xlabel(\"log(1 + price)\")\n    plt.tight_layout(); plt.savefig(\"outputs/fig_price_distribution.png\", dpi=150); plt.close()\n    plt.figure(figsize=(9, 4.5))\n    order = df.groupby(\"city\")[TARGET].median().sort_values(ascending=False).index",
+        "detail": "train_model",
+        "documentation": {}
+    }
+]

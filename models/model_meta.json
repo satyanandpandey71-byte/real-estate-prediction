@@ -1,0 +1,38 @@
+{
+  "best_model": "XGBoost",
+  "metrics": {
+    "Model": "XGBoost",
+    "MAE (INR lakh)": 11.0276,
+    "RMSE (INR lakh)": 17.9295,
+    "R2": 0.9679,
+    "MAPE (%)": 8.1524,
+    "CV R2 (log, 5-fold)": 0.972
+  },
+  "rows": 5000,
+  "train_rows": 4000,
+  "test_rows": 1000,
+  "cat_features": [
+    "city",
+    "locality",
+    "property_type",
+    "furnishing"
+  ],
+  "num_features": [
+    "bhk",
+    "area_sqft",
+    "bathrooms",
+    "age_years",
+    "floor",
+    "total_floors",
+    "metro_distance_km",
+    "gym",
+    "swimming_pool",
+    "parking",
+    "security",
+    "lift",
+    "garden",
+    "clubhouse",
+    "power_backup"
+  ],
+  "resid_std_log": 0.10218793267735743
+}

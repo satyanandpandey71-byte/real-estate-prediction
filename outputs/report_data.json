@@ -1,0 +1,176 @@
+{
+  "sample_in": {
+    "city": "Bangalore",
+    "locality": "Whitefield",
+    "property_type": "Apartment",
+    "furnishing": "Semi-Furnished",
+    "bhk": 3,
+    "area_sqft": 1500,
+    "bathrooms": 3,
+    "age_years": 4,
+    "floor": 8,
+    "total_floors": 15,
+    "metro_distance_km": 2.5,
+    "parking": 1,
+    "security": 1,
+    "lift": 1,
+    "gym": 1
+  },
+  "sample_out": {
+    "predicted_price": 13992000.0,
+    "lower_bound": 11810000.0,
+    "upper_bound": 16576000.0,
+    "price_per_sqft": 9328
+  },
+  "prefs": {
+    "city": "Pune",
+    "bhk": 2,
+    "min_area": 800,
+    "min_budget": 4000000.0,
+    "max_budget": 9000000.0,
+    "amenities": [
+      "parking",
+      "security"
+    ],
+    "locality": "Baner"
+  },
+  "rec": [
+    {
+      "property_id": 1813,
+      "city": "Pune",
+      "locality": "Baner",
+      "property_type": "Builder Floor",
+      "bhk": 2,
+      "area_sqft": 872,
+      "bathrooms": 3,
+      "age_years": 26,
+      "furnishing": "Unfurnished",
+      "metro_distance_km": 1.1,
+      "price_inr": 6855000,
+      "fair_price": 7438000.0,
+      "value_gap_pct": 7.8,
+      "match_score": 81.2
+    },
+    {
+      "property_id": 3988,
+      "city": "Pune",
+      "locality": "Baner",
+      "property_type": "Builder Floor",
+      "bhk": 2,
+      "area_sqft": 858,
+      "bathrooms": 2,
+      "age_years": 13,
+      "furnishing": "Semi-Furnished",
+      "metro_distance_km": 4.1,
+      "price_inr": 8592000,
+      "fair_price": 8717000.0,
+      "value_gap_pct": 1.4,
+      "match_score": 78.2
+    },
+    {
+      "property_id": 2735,
+      "city": "Pune",
+      "locality": "Wakad",
+      "property_type": "Independent House",
+      "bhk": 2,
+      "area_sqft": 1033,
+      "bathrooms": 3,
+      "age_years": 2,
+      "furnishing": "Unfurnished",
+      "metro_distance_km": 0.6,
+      "price_inr": 8200000,
+      "fair_price": 8443000.0,
+      "value_gap_pct": 2.9,
+      "match_score": 77.4
+    },
+    {
+      "property_id": 4750,
+      "city": "Pune",
+      "locality": "Hadapsar",
+      "property_type": "Apartment",
+      "bhk": 3,
+      "area_sqft": 1335,
+      "bathrooms": 2,
+      "age_years": 10,
+      "furnishing": "Unfurnished",
+      "metro_distance_km": 0.1,
+      "price_inr": 8466000,
+      "fair_price": 8800000.0,
+      "value_gap_pct": 3.8,
+      "match_score": 76.3
+    },
+    {
+      "property_id": 353,
+      "city": "Pune",
+      "locality": "Hinjewadi",
+      "property_type": "Apartment",
+      "bhk": 4,
+      "area_sqft": 1271,
+      "bathrooms": 5,
+      "age_years": 24,
+      "furnishing": "Semi-Furnished",
+      "metro_distance_km": 0.5,
+      "price_inr": 8672000,
+      "fair_price": 9440000.0,
+      "value_gap_pct": 8.1,
+      "match_score": 75.8
+    }
+  ],
+  "market": [
+    {
+      "city": "Mumbai",
+      "listings": 723,
+      "avg_price_lakh": 304.7,
+      "avg_price_per_sqft": 24721.0
+    },
+    {
+      "city": "Delhi",
+      "listings": 711,
+      "avg_price_lakh": 157.6,
+      "avg_price_per_sqft": 13012.0
+    },
+    {
+      "city": "Bangalore",
+      "listings": 887,
+      "avg_price_lakh": 119.3,
+      "avg_price_per_sqft": 9938.0
+    },
+    {
+      "city": "Hyderabad",
+      "listings": 615,
+      "avg_price_lakh": 109.9,
+      "avg_price_per_sqft": 8737.0
+    },
+    {
+      "city": "Pune",
+      "listings": 627,
+      "avg_price_lakh": 106.5,
+      "avg_price_per_sqft": 8708.0
+    },
+    {
+      "city": "Chennai",
+      "listings": 528,
+      "avg_price_lakh": 99.9,
+      "avg_price_per_sqft": 8271.0
+    },
+    {
+      "city": "Chandigarh",
+      "listings": 443,
+      "avg_price_lakh": 92.2,
+      "avg_price_per_sqft": 7616.0
+    },
+    {
+      "city": "Kolkata",
+      "listings": 466,
+      "avg_price_lakh": 84.9,
+      "avg_price_per_sqft": 6988.0
+    }
+  ],
+  "n_rows": 5000,
+  "n_cols": 21,
+  "price_min": 2067000,
+  "price_max": 105608000,
+  "price_mean": 14113798.2,
+  "price_median": 11262000.0,
+  "area_mean": 1213.8122
+}

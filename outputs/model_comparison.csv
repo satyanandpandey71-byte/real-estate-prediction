@@ -1,0 +1,6 @@
+Model,MAE (INR lakh),RMSE (INR lakh),R2,MAPE (%),"CV R2 (log, 5-fold)"
+XGBoost,11.0276,17.9295,0.9679,8.1524,0.972
+Linear Regression,10.8493,18.2215,0.9669,8.2615,0.9728
+Ridge Regression,10.8708,18.3035,0.9666,8.272,0.9728
+Gradient Boosting,11.3095,18.5841,0.9656,8.3578,0.9711
+Random Forest,14.444,22.6482,0.9489,11.2155,0.9431
