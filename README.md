@@ -29,8 +29,3 @@ Reported accuracy on synthetic data will be higher than on real data.
 (college logo, degree, organization, guide) must be filled in. `python make_report_assets.py && node build_report.js`
 rebuilds it from the latest results.
 
-## AWS deployment
-See Appendix 4 of the report, or use the included `Dockerfile`:
-```bash
-docker build -t realestate . && docker run -p 8501:8501 realestate
-```
